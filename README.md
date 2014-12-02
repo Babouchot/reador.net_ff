@@ -1,4 +1,4 @@
 reador.net_ff
 =============
 
-Reador.NET firefox extension
+Reador.NET (http://reador.net/) firefox extension
